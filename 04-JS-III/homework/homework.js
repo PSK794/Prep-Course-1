@@ -31,6 +31,8 @@ function incrementarPorUno(array) {
   nuevoarray[i] = array[i] + 1
   }
   return nuevoarray
+
+  
 }
 
 
@@ -164,7 +166,7 @@ function mesesDelAño(array) {
 function mayorACien(array) {
   //La función recibe un array con enteros entre 0 y 200. Recorrer el array y guardar en un nuevo array sólo los
   //valores mayores a 100 (no incluye el 100). Finalmente devolver el nuevo array.
-  // Tu código:
+  //Tu código:
 }
 
 
@@ -180,8 +182,9 @@ function breakStatement(numero) {
 
 
 function continueStatement(numero) {
+  let = 3
   //Iterar en un bucle aumentando en 2 el numero recibido hasta un límite de 10 veces.
-  //Guardar cada nuevo valor en un array.    
+  //Guardar cada nuevo valor en un array.    sadfsdfsdf
   //Devolver el array
   //Cuando el número de iteraciones alcance el valor 5, no se suma en ese caso y se continua con la siguiente iteración
   //Pista: usá el statement 'continue'
